@@ -1,5 +1,5 @@
 # Assembly
-#To set up in Ubuntu 20.04+
+# To set up in Ubuntu 20.04+
 # Install Doxbox  
 sudo apt update && sudo apt install dosbox -y
 dosbox 
