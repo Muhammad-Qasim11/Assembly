@@ -7,7 +7,7 @@ dosbox
 # Inside dosbox (give it some path in your host machine) 
 # Put extracted contents of the zip file and .asm files in this folder on your host machine 
 
-mount c /home/<yourusername>/nasm 
+mount c /home/yourusername/nasm 
 
 c: 
 
